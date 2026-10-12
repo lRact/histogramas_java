@@ -47,7 +47,7 @@ public class Umbralizacion {
             }
         }
 
-        JFrame frame = new JFrame("Escala de Grises");
+        JFrame frame = new JFrame("Umbralizacion");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new GridLayout(1, 3));
 
